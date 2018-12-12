@@ -1,0 +1,16 @@
+SMAP
+getmcq_jsp.java
+JSP
+*S JSP
+*F
++ 0 getmcq.jsp
+getmcq.jsp
+*L
+5,11:45
+15,16:56
+30,3:72
+33,2:75,3
+35,3:81
+39,4:86
+42,4:90
+*E
